@@ -44,4 +44,4 @@ This application is not hosted on the web. Please clone the repository [here](ht
 Bootcamp Instructor: Jan Jorgensen
 Bootcamp TAs: Joel Borjorquez, Peter Fesz-Nguyen, and Nicholas Green
 
-Copyright 2017 Michelle Le
+Copyright 2018 Michelle Le
